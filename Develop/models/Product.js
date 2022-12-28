@@ -35,7 +35,7 @@ Product.init(
     stock: {
       type: DataTypes.INTEGER,
       notNull: false,
-      dafaultValue:
+      dafaultValue: git c
       isNumeric: true, 
 
     }
