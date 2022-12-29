@@ -13,10 +13,10 @@ Tag.init(
     notNull:true,
     primaryKey:true,
     autoIncrement:true,
-
-
-
-  }
+    },
+    tag_name: {
+      type:DataTypes.STRING,
+    }
   },
   {
     sequelize,
