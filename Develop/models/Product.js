@@ -15,7 +15,7 @@ Product.init(
       type: DataTypes.INTEGER,
       notNull:true,
       primaryKey: true,
-      AutoIncrement: true,
+      autoIncrement: true,
       
     },
 
@@ -34,9 +34,17 @@ Product.init(
 
     stock: {
       type: DataTypes.INTEGER,
-      notNull: false,
-      dafaultValue: git c
+      notNull: true,
+      dafaultValue: "10",
       isNumeric: true, 
+
+    },
+    category_id:{
+      type:DataTypes.INTEGER,
+      references:{
+        model:category,
+        key:'id',
+      },
 
     }
 
