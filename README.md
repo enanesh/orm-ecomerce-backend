@@ -84,18 +84,18 @@ https://user-images.githubusercontent.com/111031708/210694608-c7eb5597-b6e0-4f30
 
 ## Credits
 
-Node.js : https://www.stanleyulili.com/node/node-modules-import-and-use-functions-from-another-file/
-sequilize : https://sequelize.org/
-express : https://expressjs.com/
-Insomnia Core : https://insomnia.rest/products/insomnia
+- Node.js : https://www.stanleyulili.com/node/node-modules-import-and-use-functions-from-another-file/
+- sequilize : https://sequelize.org/
+- express : https://expressjs.com/
+- Insomnia Core : https://insomnia.rest/products/insomnia
 
 
 ## Technology Used
 - JavaScript
 - MySQL
--express node library
--Sequilize node library
--Insomnia Core to test the Api routes.
+- express node library
+- Sequilize node library
+- Insomnia Core to test the Api routes.
 
 ## License
 
