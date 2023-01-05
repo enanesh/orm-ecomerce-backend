@@ -13,9 +13,8 @@ This repo houses the assets used to build the orm-ecomerce-backend this command-
 
 AS A manager at an internet retail company,I want a back end for my e-commerce website that uses the latest technologies
 so that my company can compete with other e-commerce companies.
+This App creates and perfoms changes into ecommerce_db.
 
-
-#### This App creates and perfoms changes into ecommerce_db.
 
 
 
