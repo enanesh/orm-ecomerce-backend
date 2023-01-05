@@ -1,4 +1,4 @@
-# orm-ecomerce-backend
+# orm-ecommerce-backend
 
 
 
@@ -6,14 +6,14 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description
-This repo houses the assets used to build the orm-ecomerce-backend this command-line application, this application was developed using Js and sequilize to conect to the database and express.js to build the API.
+This repo houses the assets used to build the orm-ecommerce-backend this command-line application was developed using JavaScript lenguage, use sequilize to conect to the database, express.js to build the API and Insomnia Core to test the api routes.
 
 
 #### User story:
 
 AS A manager at an internet retail company,I want a back end for my e-commerce website that uses the latest technologies
 so that my company can compete with other e-commerce companies.
-This App creates and perfoms changes into ecommerce_db.
+This App creates and perfoms changes into ecommerce_db database.
 
 
 
@@ -34,7 +34,7 @@ In order of being able to run this application you'll need
 ### Step 1:
 
 ```sh
-git clone https://github.com/enanesh/orm-orm-ecomerce-backend
+git clone https://github.com/enanesh/orm-orm-ecommerce-backend
 
 git status 
 ```
@@ -87,7 +87,7 @@ https://user-images.githubusercontent.com/111031708/210694608-c7eb5597-b6e0-4f30
 Node.js : https://www.stanleyulili.com/node/node-modules-import-and-use-functions-from-another-file/
 sequilize : https://sequelize.org/
 express : https://expressjs.com/
-
+Insomnia Core : https://insomnia.rest/products/insomnia
 
 
 ## Technology Used
@@ -95,6 +95,7 @@ express : https://expressjs.com/
 - MySQL
 -express node library
 -Sequilize node library
+-Insomnia Core to test the Api routes.
 
 ## License
 
